@@ -1,1 +1,3 @@
-hello word pad
+hello word pad 
+this is line 1 
+this is line 2
